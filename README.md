@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @destafajri
-- 👀 I’m interested in Software Testing automation, Data Sciecnce, Artificial Intelligence
+- 👀 I’m interested in Software Testing automation, Data Science, Artificial Intelligence
 - 🌱 I’m currently learning SQA automation and RPA
 - 💞️ I’m looking to collaborate in QA automation, Data Engineer, Data Science, Etc
 - 📫 How to reach me ...? just email me --> destafajri@gmail.com
