@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @destafajri
-- 👀 I’m interested in Software Testing automation, Machine Learning, Artificial Intelligence
-- 🌱 I’m currently learning SQA automation 
-- 💞️ I’m looking to collaborate in QA automation, Machine Learning, IoT, Artificial Intelligence Etc
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning QA automation 
+- 💞️ I’m looking to collaborate in QA automation
 - 📫 How to reach me ...? just email me --> destafajri@gmail.com
 
 <!---
