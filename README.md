@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @destafajri
 - 👀 I’m interested in Software Testing and Backend development 
-- 🌱 I’m currently learning QA automation 
+- 🌱 I’m currently learning QA automation and Backend development
 - 💞️ I’m looking to collaborate in QA automation and web service development
 - 📫 How to reach me ...? just email me --> destafajri@gmail.com
 
